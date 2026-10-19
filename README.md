@@ -1,60 +1,105 @@
 # Hi, I'm Chrille 👋
 
-Senior IT Professional with a strong interest in Infrastructure, DevOps and Platform Engineering.
-With a passion to bring Retro and Outdated devices to proper use. 
+Infrastructure Engineer in progress | Senior IT Professional | Home Lab Builder
 
-## 🖥️ Home Lab
+Currently working within business-critical IT support while building practical Infrastructure and DevOps experience through hands-on projects and self-hosted environments.
 
-My lab environment includes:
+---
 
-- Debian Linux
+## 🖥️ Home Lab Environment
+
+### WyseHome
+- Debian Linux Server
 - Docker & Docker Compose
-- Proxmox VE
-- TrueNAS SCALE
-- Home Assistant HACS & OS
-- Cloudflare
-- DNS & VLAN for IoT
-- SSH Administration
+- Home Assistant
+- Infrastructure Monitoring
 - Self-hosted Services
 
-## 🚀 Current Focus
+### Komandberg
+- Debian Server
+- Portfolio Website Hosting
+- Cloudflare Integration
+- CV Publication Platform
+- SSH Administration
 
+### Storage & Virtualization
+- TrueNAS SCALE
+- SMB File Shares
+- Network Storage Services
+- Proxmox Virtualization Lab
+
+---
+
+## 🚀 Technologies
+
+```txt
+Linux
+Docker
+Docker Compose
+Proxmox
+TrueNAS
+Home Assistant
+Git
+GitHub
+Cloudflare
+NGINX
+SSH
+Networking
+O365
+Entra ID
+Active Directory
+ServiceNow
+```
+
+---
+
+## 📚 Current Learning Path
+
+- DevOps Practices
 - Infrastructure Engineering
-- DevOps
+- Azure
 - Platform Operations
-- Linux Administration
-- Azure Fundamentals
+- Monitoring & Observability
+- Infrastructure Automation
+- CI/CD Pipelines
 
-## 📚 Philosophy
+---
 
-Learn by building.
-Keep it Retro
+## 💼 Professional Background
 
-Every project in my lab exists to learn, document and improve practical infrastructure skills.
+Senior IT Support Specialist with experience in:
 
-🏠 Home Lab Projects
-Integrate Home Assistants built in "Shopping & To Do" list with my own developed "PostIT Blyerts" application. 
-Automate TuYa Power Sockets overload shutdown script. 
+- Microsoft 365 Administration
+- Entra ID & MFA
+- Active Directory
+- ITSM & ServiceNow
+- Incident Management
+- Team Mentoring
+- Lean Six Sigma
+- Process Automation
 
-🐳 Docker Services
-Make my Retro Laptop succesfully run a single application in docker.
-My Own application "PostIT Blyerts" should be lightweight enough to run on my Asus Eee 900.
+---
 
-ASUS Eee PC 900 | antiX 23 (32-bit)
-Intel Celeron M 900 MHz
-1 GB RAM
-15 GB SSD
+## 🎯 Featured Projects
 
-🖥 Infrastructure Stack
-RackPad & HomeLable
+### Portfolio Website
+Self-hosted personal portfolio running on a Debian server using Docker.
 
-🎯 Current Learning Goals
-Increase my knowledge in coding
-Learn AI integration for home hosting and self learning
+### Home Assistant Platform
+Smart home platform integrated with self-hosted infrastructure.
 
+### TrueNAS Storage Environment
+Centralized storage and file sharing platform.
 
-## 🔗 Links
+### Infrastructure Lab
+Multi-node environment for testing Linux, virtualization, networking and container technologies.
 
-Me: https://chrille.pages.dev/
-LinkedIn: https://linkedin.com/in/chrillemalmberg
-GitHub: https://github.com/ChrilleMalmberg
+---
+
+## 🔗 Connect
+
+LinkedIn:
+https://www.linkedin.com/in/chrillemalmberg
+
+GitHub:
+https://github.com/ChrilleMalmberg
