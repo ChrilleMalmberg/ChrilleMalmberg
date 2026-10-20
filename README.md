@@ -11,22 +11,25 @@ Currently working within business-critical IT support while building practical I
 ### WyseHome
 - Debian Linux Server
 - Docker & Docker Compose
-- Home Assistant
-- Infrastructure Monitoring
-- Self-hosted Services
+- Home Assistant with HACS & Gemini AI integration
+- HACS Energy Card price calculation
+- Self-hosted HTML Portfolio sites
 
-### Komandberg
-- Debian Server
+### Casa OS
+- Debian Server CasaOS on top
 - Portfolio Website Hosting
 - Cloudflare Integration
 - CV Publication Platform
 - SSH Administration
+- Bockstack Device inventroy & Homelable network map
 
 ### Storage & Virtualization
 - TrueNAS SCALE
 - SMB File Shares
+- Secured backup with Syncthing
 - Network Storage Services
-- Proxmox Virtualization Lab
+- Proxmox Virtualization Lab experiment
+- VM Ubuntu Server - testing
 
 ---
 
